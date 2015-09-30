@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TomTomMapExample</string>
+    <string name="title_activity_ttmap">TTMap</string>
+</resources>
